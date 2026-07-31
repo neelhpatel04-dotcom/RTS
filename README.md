@@ -6,5 +6,6 @@
 - [System Architecture Diagram](System%20architecture%20diagram.pdf)
 - [Task Table + WCET Evidence](Task%20Table%20+%20WCET%20evidence.pdf)
 - [Hazard Analysis](Hazard%20Analysis.pdf)
+- [Final Review](Final%20review.pdf)
 - [Application Source (zip)](APP%203.zip)
-- [Demo Video (download)](video2829588895.mp4)
+- [Demo Video (YouTube link)](Youtube%20video%20link.pdf)
